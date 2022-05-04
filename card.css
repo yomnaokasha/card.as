@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  border-color: lightgray;
+  border-style: solid;
+  width: 600px;
+  margin: 40px auto;
+}
+.pic {
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.bar {
+  background-color: rgb(75, 160, 181);
+  width: 600px;
+  height: 70px;
+  position: fixed;
+}
+
+.link {
+  padding-bottom: 10px;
+}
+.content {
+  margin-left: 20px;
+}
+.pic1 {
+  height: 60px;
+  border-style: double;
+  border-color: black;
+  border-radius: 20vh;
+  position: sticky;
+  margin-top: 25px;
+}
+
+.location {
+  margin: 10px auto;
+}
